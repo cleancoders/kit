@@ -30,7 +30,7 @@
 
 Each library is a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules).  On initial checkout you'll need to run these commands:
 
-    git submodile init
+    git submodule init
     git submodule update
 
 There are script inside the `bin` directory to help with all the modules at the same time, such as tagging or committing.
